@@ -1,0 +1,13 @@
+## Interface: 80000
+## Author: myno
+## Contributor: Eiltherune
+## Title: Broker_WorldQuests
+## Version: 8.0.01
+## SavedVariables: BWQcfg
+## SavedVariablesPerCharacter: BWQcache, BWQcfgPerCharacter
+## Notes: Broker plugin to display world quests as a list.
+
+libs/LibStub.lua
+libs/CallbackHandler-1.0.lua
+libs/LibDataBroker-1.1.lua
+WorldQuests.lua

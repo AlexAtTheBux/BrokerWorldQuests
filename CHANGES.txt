@@ -1,0 +1,6 @@
+------------------------------------------------------------------------
+*8.0.01 (18-JUL-2018)*
+ * fixed - GetCurrentMapAreaID() and GetMapNameByID() are no longer valid API calls, replaced with C_Map.GetBestMapForUnit() and C_Map.GetMapInfo(). Remapped all zones to new mapIDs.
+ * removed - Any reference to Artifact Power rewards, as they no longer exist
+ * added - Wakening Essences are now available as a reward, and can be viewed as a total
+ * added - The Argussian Reach would like to apologize for not allowing their quests to be marked "Always show". This has been rectified.
