@@ -53,9 +53,10 @@ local MAP_ZONES = {
 	[830] = { id = 830, name = C_Map.GetMapInfo(830), quests = {}, buttons = {}, },  -- Krokuun
 	[882] = { id = 882, name = C_Map.GetMapInfo(882), quests = {}, buttons = {}, },  -- Mac'aree
 	[885] = { id = 885, name = C_Map.GetMapInfo(885), quests = {}, buttons = {}, },  -- Antoran Wastes
+	[62] = { id = 62, name = C_Map.GetMapInfo(62), quests = {}, buttons = {}, },  -- Darkshore
 }
 local MAP_ZONES_SORT = {
-	630, 790, 641, 650, 634, 680, 625, 646, 830, 882, 885
+	62, 630, 790, 641, 650, 634, 680, 625, 646, 830, 882, 885
 }
 local MAPID_BROKENISLES = 619
 local SORT_ORDER = {
