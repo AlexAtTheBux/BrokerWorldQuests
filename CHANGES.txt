@@ -4,3 +4,7 @@
  * removed - Any reference to Artifact Power rewards, as they no longer exist
  * added - Wakening Essences are now available as a reward, and can be viewed as a total
  * added - The Argussian Reach would like to apologize for not allowing their quests to be marked "Always show". This has been rectified.
+
+*8.0.02 (29-JUL-2018)*
+ * added - Darkshore support
+ * added - structured libs and updated them to latest
